@@ -10,5 +10,5 @@ spring:
           uri: https://github.com/zaninluis/microservicejava
           search-paths:
           - microservices-java/configs/{application}
-          #username: Maducdornelles
+          #username: zaninluis
           #password: senha
